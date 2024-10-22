@@ -1,4 +1,4 @@
-# AI Pipeline for Image Segmentation and Object Analysis by Mohit Janbandhu
+# AI Pipeline for Image Segmentation and Object Analysis by Gautam Bhagat
 
 ## Overview
 This project implements an AI pipeline that segments, identifies, and analyzes objects within an image, then outputs a summary with mapped data.
