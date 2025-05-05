@@ -1,0 +1,5 @@
+[console_scripts]
+mcp-cli = mcpcli.__main__:main
+
+[gui_scripts]
+
